@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li{
+    display: inline;
+    margin-right: 50px;
+    color: blanchedalmond;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+
+}
+#portfolio{
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+#skills li{
+    color: black;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+a{
+    color: blanchedalmond;
+    text-decoration: None;
+}
